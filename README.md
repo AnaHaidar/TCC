@@ -6,7 +6,7 @@ Projeto apresentado para o Departamento de Estatística da Universidade de Bras�
 
 O estudo tem por objetivo identificar os principais fatores associados à evasão das estudantes do gênero feminino dos cursos de bacharelado do Instituto de Ciências Exatas da Universidade de Brasília, por meio do ajuste de modelos de regressão logística.
 
-Os códigos utilizados no desenvolvimento do projeto foram divididos em 3 partes:
+O desenvolvimento do projeto foi dividido em 3 partes:
 
 * Manipulação dos dados;
 * Análise Descritiva;
