@@ -35,7 +35,6 @@
 # tabela 5: estatistica de teste e p-valor  - evasao vs explicativas
 # tabela 6: corr entre variaveis numericas
 
-
 ##====================================================================================================
 library(tidyverse)
 library(magrittr)
